@@ -33,25 +33,32 @@ Google hacking, also known as Google dorking, is a technique that involves using
 site: This operator allows you to search for pages that are within a specific website or domain. For example, "site:example.com" would search for pages that are on the example.com domain.
 Following searches for all the sites that is in the domain yahoo.com
 
-![Screenshot 2025-03-27 233121](https://github.com/user-attachments/assets/caa9c6c1-9802-41b2-b0c0-54f3ce4a92de)
+![Screenshot 2025-03-28 000030](https://github.com/user-attachments/assets/0a14de4d-da0d-4df6-9377-3c959a2efad7)
 
 filetype: This operator allows you to search for files of a specific type. For example, "filetype:pdf" would search for all PDF files.
 Following searches for pdf file in the domain yahoo.com
 
-![Screenshot 2025-03-27 234009](https://github.com/user-attachments/assets/6ad54581-a838-4b2a-b838-e22712eddb3e)
+![Screenshot 2025-03-21 142730](https://github.com/user-attachments/assets/dce5b448-f48f-412f-8193-c9a2a56ea52a)
 
 intext: This operator allows you to search for pages that contain specific text within the body of the page. For example, "intext:password" would search for pages that contain the word "password" within the body of the page.
 
-![Screenshot 2025-03-27 234221](https://github.com/user-attachments/assets/77d966e9-2197-41e0-b905-78351d803b24)
+![Screenshot 2025-03-21 143833](https://github.com/user-attachments/assets/ca68f667-ee70-44b5-8318-54830c5d66f0)
 
 inurl: This operator allows you to search for pages that contain specific text within the URL. For example, "inurl:admin" would search for pages that contain the word "admin" within the URL.
 
-![Screenshot 2025-03-27 234422](https://github.com/user-attachments/assets/a267e2df-e49c-4346-90fc-cf602cd9d953)
+![Screenshot 2025-03-21 143925](https://github.com/user-attachments/assets/f7d5d4a0-9ed3-4847-858a-c9021633149e)
+
+intitle: This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
+
+![Screenshot 2025-03-21 144012](https://github.com/user-attachments/assets/51187f90-dcf6-460c-b336-0536aa264010)
 
 link: This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
 
-![Screenshot 2025-03-27 234538](https://github.com/user-attachments/assets/66474369-370f-4447-b183-aeecfc1af793)
+![Screenshot 2025-03-21 144100](https://github.com/user-attachments/assets/9ee1fb8f-4a2e-4881-b4ea-9cfbaf44fc58)
 
+cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
+
+![Screenshot 2025-03-21 144123](https://github.com/user-attachments/assets/785a4907-8394-4267-a146-fb0801ae4897)
  
 #DNS Enumeration
 

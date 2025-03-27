@@ -33,21 +33,24 @@ Google hacking, also known as Google dorking, is a technique that involves using
 site: This operator allows you to search for pages that are within a specific website or domain. For example, "site:example.com" would search for pages that are on the example.com domain.
 Following searches for all the sites that is in the domain yahoo.com
 
+![Screenshot 2025-03-27 233121](https://github.com/user-attachments/assets/caa9c6c1-9802-41b2-b0c0-54f3ce4a92de)
+
 filetype: This operator allows you to search for files of a specific type. For example, "filetype:pdf" would search for all PDF files.
 Following searches for pdf file in the domain yahoo.com
 
-
+![Screenshot 2025-03-27 234009](https://github.com/user-attachments/assets/6ad54581-a838-4b2a-b838-e22712eddb3e)
 
 intext: This operator allows you to search for pages that contain specific text within the body of the page. For example, "intext:password" would search for pages that contain the word "password" within the body of the page.
 
+![Screenshot 2025-03-27 234221](https://github.com/user-attachments/assets/77d966e9-2197-41e0-b905-78351d803b24)
 
 inurl: This operator allows you to search for pages that contain specific text within the URL. For example, "inurl:admin" would search for pages that contain the word "admin" within the URL.
 
-intitle: This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
+![Screenshot 2025-03-27 234422](https://github.com/user-attachments/assets/a267e2df-e49c-4346-90fc-cf602cd9d953)
 
 link: This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
 
-cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
+![Screenshot 2025-03-27 234538](https://github.com/user-attachments/assets/66474369-370f-4447-b183-aeecfc1af793)
 
  
 #DNS Enumeration

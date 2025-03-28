@@ -1,5 +1,9 @@
 # Enumeration
 Enumeration Techniques
+```
+NAME: BASKAR U
+REG NO: 212223220012
+```
 
 # Explore Google hacking and enumeration 
 
@@ -104,22 +108,22 @@ select any username in the first column of the above file and check the same
 
 ![Screenshot 2025-03-28 124601](https://github.com/user-attachments/assets/9ea3b26f-a06c-45c3-a2ef-e1cea2bbffa2)
 
-#Telnet for smtp enumeration
+## Telnet for smtp enumeration
 Telnet allows to connect to remote host based on the port no. For smtp port no is 25
 telnet <host address> 25 to connect
 and issue appropriate commands
   
- ##Output
+## Output
   
-  
+![Screenshot 2025-03-28 133807](https://github.com/user-attachments/assets/15ff3553-c10e-4700-abcd-4e96be02811e)
 
 ## nmap –script smtp-enum-users.nse <hostname>
 
 The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server by issuing the VRFY, EXPN or RCPT TO commands. The goal of this script is to discover all the user accounts in the remote system.
 
-
 ## OUTPUT:
 
+![Screenshot 2025-03-28 124913](https://github.com/user-attachments/assets/ba1fcc93-349c-4220-894c-b469bd0189ea)
 
 ## RESULT:
 The Google hacking keywords and enumeration tools were identified and executed successfully
